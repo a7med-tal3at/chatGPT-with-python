@@ -26,3 +26,5 @@ while True:
     response = generate_response(prompt)
     print(response)
     time.sleep(1)  # Wait for a second before generating the next response
+    
+# ahmed_talaat2023@github.com
